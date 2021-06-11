@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.exe
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.deps.json
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.runtimeconfig.json
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.dll
+C:\Users\Student\Desktop\Code\altkommg\bin\Debug\netcoreapp3.1\altkommg.pdb
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.dll
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.pdb
+C:\Users\Student\Desktop\Code\altkommg\obj\Debug\netcoreapp3.1\altkommg.genruntimeconfig.cache
